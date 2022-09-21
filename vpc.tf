@@ -5,3 +5,4 @@ resource "aws_vpc" "terraform-vpc" {
   tags = {
     Name = "terraform-demo-vpc"
   }
+}
